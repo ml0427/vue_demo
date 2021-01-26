@@ -1,0 +1,3 @@
+npm rum build
+
+node out\lab3_main.js
