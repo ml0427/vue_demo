@@ -1,3 +1,6 @@
 npm rum build
 
 node out\lab3_main.js
+
+
+node --es-module-specifier-resolution=node src\lab3_main.js
